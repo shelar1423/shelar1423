@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
 
-- 💬 Ask me about **Python and Open Source Contributions**
+- 💬 Ask me about : **Python and Open Source Contributions**
 
-- 📫 How to reach me **digvijayshelar@gmail.com**
+- 📫 How to reach me : **digvijayshelar@gmail.com**
 
-- ⚡ Fun fact **Passionate to do hard word in every field**
+- ⚡ Fun fact : **Passionate to do hard work in every field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
