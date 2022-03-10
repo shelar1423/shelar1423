@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="amartya-mahato" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" alt="amartya-mahato" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" alt="digvijay shelar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@amartya_mahato" target="blank"><img src="https://img.shields.io/twitter/follow/@amartya_mahato?logo=twitter&style=for-the-badge" alt="@amartya_mahato" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@stuxnet_1423" target="blank"><img src="https://img.shields.io/twitter/follow/@stuXnet1423?logo=twitter&style=for-the-badge" alt="@stuXnet_1423" /></a> </p>
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
 
