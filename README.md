@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Digvijay Shelar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+, I'm Digvijay Shelar</h1>
 <h3 align="center">I am from India, Currently in collage</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="amartya-mahato" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" alt="digvijay shelar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@stuxnet_1423" target="blank"><img src="https://img.shields.io/twitter/follow/@stuXnet1423?logo=twitter&style=for-the-badge" alt="@stuXnet_1423" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/__stuxnet__/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
 
@@ -22,11 +24,14 @@
 <a href="https://instagram.com/@__stuxnet__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__stuxnet__" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h3 align="leftr">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" width="40" height="40"></a>  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="python" width="40" height="40"/></a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHRXFe4C41vpY3Cm2KDkYQJZbluFNXlrQNp4_d-z2-Um7ocKWrNxMvgFJ0wi5L7msb1A&usqp=CAU" alt="python" width="40" height="40"/> </a></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartya-mahato&show_icons=true&locale=en&layout=compact&theme=monokai" alt="amartya-mahato"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartya-mahato&show_icons=true&locale=en&theme=monokai" alt="amartya-mahato" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya-mahato&theme=monokai" alt="amartya-mahato" /></p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
+
 
