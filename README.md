@@ -2,7 +2,7 @@
 , I'm Digvijay Shelar</h1>
 <h3 align="center">I am from India, Currently in collage</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="amartya-mahato" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" alt="digvijay shelar" /></a> </p>
 
