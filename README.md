@@ -24,7 +24,7 @@
 <a href="https://instagram.com/@__stuxnet__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__stuxnet__" height="30" width="40" /></a>
 
 
-<h3 align="leftr">🔥 Languages & Frameworks & Tools & Abilities🔥</h3>
+<h3 align="leftr">🔥Languages & Frameworks & Tools & Abilities🔥</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" width="40" height="40"></a>  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="python" width="40" height="40"/></a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHRXFe4C41vpY3Cm2KDkYQJZbluFNXlrQNp4_d-z2-Um7ocKWrNxMvgFJ0wi5L7msb1A&usqp=CAU" alt="python" width="40" height="40"/> </a></p>
 
