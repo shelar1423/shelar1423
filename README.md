@@ -11,8 +11,6 @@ src="https://img.shields.io/twitter/follow/stuXnet_1423?logo=twitter&style=for-t
 /></a></p>
  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" alt="digvijay shelar" /></a> </p>
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
@@ -47,7 +45,6 @@ src="https://img.shields.io/twitter/follow/stuXnet_1423?logo=twitter&style=for-t
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 
-<a href="https://github.com/shelar1423" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelar1423&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
