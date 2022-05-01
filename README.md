@@ -2,11 +2,17 @@
 , I'm Digvijay Shelar</h1>
 <h3 align="center">I am from India, Currently in collage</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay" /></p>
+<a href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+ </p>
+  <a href="https://www.twitter.com/stuXnet_1423" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/stuXnet_1423?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
+/></a></p>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" alt="digvijay shelar" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/__stuxnet__/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
@@ -18,15 +24,22 @@
 - ⚡ Fun fact : **Passionate to do hard work in every field**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://discord.com/users/Ripper#3104" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />  </a>
+  <a href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/__stuxnet__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/digvijay-shelar-725111234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com/stuXnet_1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+
+### Skills
+
 <p align="left">
-<a href="https://twitter.com/@stuXnet_1423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stuXnet_1423" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/digvijay-shelar-725111234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digvijay shelar" height="30" width="40" /></a>
-<a href="https://instagram.com/@__stuxnet__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__stuxnet__" height="30" width="40" /></a>
-
-
-<h3 align="leftr">🔥Languages & Frameworks & Tools & Abilities🔥</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" width="40" height="40"></a>  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="python" width="40" height="40"/></a>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHRXFe4C41vpY3Cm2KDkYQJZbluFNXlrQNp4_d-z2-Um7ocKWrNxMvgFJ0wi5L7msb1A&usqp=CAU" alt="python" width="40" height="40"/> </a></p>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+</p>
 
 
 
@@ -34,4 +47,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 
+<a href="https://github.com/shelar1423" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelar1423&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shelar1423&repo=EARTH-3050&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
