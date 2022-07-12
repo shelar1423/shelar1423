@@ -15,6 +15,8 @@ src="https://img.shields.io/twitter/follow/stuXnet_1423?logo=twitter&style=for-t
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
 
+- 🌱 I’m currently a Contributor at the SODA FOUNDATION**
+
 - 💬 Ask me about : **Python and Open Source Contributions**
 
 - 📫 How to reach me : **digvijayshelar@gmail.com**
