@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 , I'm Digvijay Shelar</h1>
-<h3 align="center">I am from India, Currently in collage</h3>
+<h3 align="center">I am from India, Currently in college</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shelar1423&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay" /></p>
 <a href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img
@@ -11,7 +11,6 @@ src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for
 /></a></p>
  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
 
