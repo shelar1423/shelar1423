@@ -16,7 +16,7 @@ src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for
 
 -  I’m currently a Contributor at the **SODA FOUNDATION**
 
-- 💬 Ask me about : **Python and Open Source Contributions**
+- 💬 Ask me about : **Kotlin and Open Source Contributions**
 
 - 📫 How to reach me : **digvijayshelar@gmail.com**
 
