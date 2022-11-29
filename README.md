@@ -45,8 +45,7 @@ src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
+
 
 
 <b>Top Repositories</b>
