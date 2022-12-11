@@ -23,22 +23,23 @@ src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for
 - ⚡ Fun fact : **Passionate to do hard work in every field**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.com/users/Ripper#3104" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />  </a>
-  <a href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/__stuxnet__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/digvijay-shelar-725111234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://twitter.com/ShelarDigvijay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Ripper#3104" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+    <a  href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+    <a href="http://www.instagram.com/__stuxnet__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/digvijay-shelar-725111234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+    <a href="https://twitter.com/ShelarDigvijay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
 
 
 ### Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png" width="36" height="36" alt="JAVA" /></a>
-<a href="https://kotlinlang.org/docs/android-overview.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="36" height="36" alt="KOTLIN" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png" width="36" height="36" alt="JAVA" /></a>&nbsp;&nbsp;
+<a href="https://kotlinlang.org/docs/android-overview.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="36" height="36" alt="KOTLIN" /></a>&nbsp;&nbsp;
+ <a href="https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAnNacBhDvARIsABnDa6-YWd-oKmfSjycsc2UFGa24WZz7WKlu4b7l1FBqw66qyyj4gHzgUFIaAjSPEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/jetpack%20compose%20icon_RGB_plsZ8Ns.png" width="46" height="43" alt="JETPACK" /></a>
  
 </p>
 
@@ -52,5 +53,6 @@ src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shelar1423&repo=EARTH-3050&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shelar1423&repo=EARTH-3050&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/shelar1423/bhavans3.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shelar1423&repo=bhavans3.0&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
