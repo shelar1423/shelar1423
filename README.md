@@ -48,11 +48,23 @@ src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for
 <h2 align="center">⚡ Stats ⚡</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelar1423&show_icons=true&locale=en&layout=compact&theme=monokai" alt="shelar1423" /></p>
 
 
+</br>
 
-<b>Top Repositories</b>
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<br /><br /><br /><br /><br /><br /><br />
+
+<h2 align="center">Trophies 🏆</h2>
+<img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" />
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<br /><br />
+<h2 align="center">Top Repositories</h2>
 
 <div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shelar1423&repo=EARTH-3050&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <div width="100%" align="center"><a href="https://github.com/shelar1423/bhavans3.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shelar1423&repo=bhavans3.0&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
