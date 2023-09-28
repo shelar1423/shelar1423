@@ -52,6 +52,7 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelar1423&show_icons=true&locale=en&layout=compact&theme=monokai" alt="shelar1423" /></p>
 </br>
 <br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 <h2 align="center">Trophies 🏆</h2>
 <img alig src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" />
