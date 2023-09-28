@@ -47,9 +47,11 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelar1423&show_icons=true&locale=en&layout=compact&theme=monokai" alt="shelar1423" /></p>
+</p>
 
 <h2 align="center">Trophies 🏆</h2>
 <img alig src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" />
