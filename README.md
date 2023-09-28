@@ -45,6 +45,12 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelar1423&show_icons=true&locale=en&layout=compact" alt="shelar1423" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en" alt="shelar1423" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelar1423&show_icons=true&locale=en&layout=compact&theme=monokai" alt="shelar1423" /></p>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="left">
