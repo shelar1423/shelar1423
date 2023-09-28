@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <a href="https://twitter.com/_DevShelar_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/_DevShelar_?color=#fff">
 </a>
 </br>
- 
+
 [![An image of @shelar1423's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shelar1423)](https://holopin.io/@shelar1423)
 
 
