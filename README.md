@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <br /><br /><br /><br /><br /><br /><br />
 
 <h2 align="center">Trophies 🏆</h2>
-<img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=shelar1423&theme=monokai" />
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 <br /><br />
