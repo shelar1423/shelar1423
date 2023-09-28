@@ -47,9 +47,9 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <h2 align="center">⚡ Stats ⚡</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai)
+![digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelar1423&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;&nbsp;
 <br /><br />
