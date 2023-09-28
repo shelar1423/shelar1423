@@ -50,12 +50,7 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&locale=en&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelar1423&show_icons=true&locale=en&layout=compact&theme=monokai" alt="shelar1423" /></p>
-
-
 </br>
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
 <br /><br /><br /><br /><br /><br /><br />
 
 <h2 align="center">Trophies 🏆</h2>
