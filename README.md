@@ -10,6 +10,7 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 src="https://img.shields.io/twitter/follow/ShelarDigvijay?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a></p>
  
+[![An image of @shelar1423's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shelar1423)](https://holopin.io/@shelar1423)
 
 
 - 🌱 I’m currently learning **Bachelor's in Computer Application**
