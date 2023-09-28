@@ -45,10 +45,12 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai)](https://git.io/streak-stats)
+
 &nbsp;&nbsp;
 <br /><br />
 
