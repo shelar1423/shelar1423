@@ -25,9 +25,9 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://discord.com/users/Ripper#3104" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
     <a  href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-    <a href="http://www.instagram.com/__stuxnet__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+    <a href="http://www.instagram.com/digvijayux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/digvijay-shelar-725111234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-    <a href="https://twitter.com/ShelarDigvijay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
+    <a href="https://x.com/digvijayux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
 
 
 
