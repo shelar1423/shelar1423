@@ -6,7 +6,7 @@
 <a href="https://www.github.com/shelar1423" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
  </p>
-<a href="https://twitter.com/digvijayux" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/_DevShelar_?color=#fff">
+<a href="https://twitter.com/digvijayux" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/digvijayux?color=#fff">
 </a>
 </br>
 
@@ -38,7 +38,6 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png" width="36" height="36" alt="JAVA" /></a>&nbsp;&nbsp;
-<a href="https://kotlinlang.org/docs/android-overview.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="36" height="36" alt="KOTLIN" /></a>&nbsp;&nbsp;
  <a href="https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAnNacBhDvARIsABnDa6-YWd-oKmfSjycsc2UFGa24WZz7WKlu4b7l1FBqw66qyyj4gHzgUFIaAjSPEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/jetpack%20compose%20icon_RGB_plsZ8Ns.png" width="46" height="43" alt="JETPACK" /></a>
  
 </p>
