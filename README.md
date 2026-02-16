@@ -48,7 +48,3 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 
 ![digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelar1423&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
-&nbsp;&nbsp;
-<br /><br />
