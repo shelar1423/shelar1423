@@ -46,5 +46,4 @@ src="https://img.shields.io/github/followers/shelar1423?logo=github&style=for-th
 <h2 align="center">⚡ Stats ⚡</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shelar1423&theme=monokai" alt="digvijayshelar" /></p>
 
-![digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelar1423&show_icons=true&theme=monokai)
 
